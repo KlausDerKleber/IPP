@@ -1,5 +1,5 @@
 {
-    "name": "obray/ipp",
+    "name": "klausderkleber/ipp",
     "description": "A PHP implemntation of the Internet Printing Protocol (IPP)",
     "license": "MIT",
     "minimum-stability": "dev",
